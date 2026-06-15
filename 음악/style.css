@@ -1,0 +1,169 @@
+a {
+    color: inherit;         
+    text-decoration: none; 
+}
+
+section1{
+	color:  #ffefca;
+    font-family: "궁서", Gungsuh, "AppleMyungjo", serif;
+    font-size: 30px;
+    position: absolute;
+    left: 10%;
+    bottom: 5%;
+
+}
+
+section1:hover {
+    color: #d8b060; 
+}
+
+.kim{
+	position: absolute;
+    left: 2%;
+    top: 10%;
+    z-index: 1;
+    transition: transform 0.3s ease;
+}
+
+.kim:hover {
+    transform: rotate(5deg); 
+}
+
+.kim2{
+	position: absolute;
+    left: 5%;
+    top: 38%;
+    z-index: 2;
+    transition: transform 0.3s ease;
+}
+
+.kim2:hover {
+    transform: rotate(5deg); 
+}
+
+.kim3{
+	position: absolute;
+    left: 10%;
+    top: 5%;
+    z-index: 0;
+    transition: transform 0.3s ease;
+}
+
+.kim3:hover {
+    transform: rotate(5deg); 
+}
+
+.kim4{
+	position: absolute;
+    left: 13%;
+    top: 50%;
+    transition: transform 0.3s ease;
+}
+
+.kim4:hover {
+    transform: rotate(5deg); 
+}
+
+section2{
+	color:  #ffefca;
+    font-family: "궁서", Gungsuh, "AppleMyungjo", serif;
+    font-size: 30px;
+    position: absolute;
+    left: 47%;
+    bottom: 5%;
+
+}
+
+section2:hover {
+    color: #d8b060; 
+}
+
+.jo{
+	position: absolute;
+    left: 38%;
+    top: 5%;
+    transition: transform 0.3s ease;
+}
+
+.jo:hover {
+    transform: rotate(5deg); 
+}
+
+.jo1{
+	position: absolute;
+    left: 48%;
+    top: 10%;
+    transition: transform 0.3s ease;
+}
+
+.jo1:hover {
+    transform: rotate(5deg); 
+}
+
+.jo2{
+	position: absolute;
+    left: 38%;
+    top: 40%;
+    transition: transform 0.3s ease;
+}
+
+.jo2:hover {
+    transform: rotate(5deg); 
+}
+
+.lee{
+	position: absolute;
+    right: 5%;
+    top: 5%;
+    transition: transform 0.3s ease;
+}
+
+.lee:hover {
+    transform: rotate(5deg); 
+}
+
+.lee1{
+	position: absolute;
+    right: 3%;
+    top: 40%;
+    transition: transform 0.3s ease;
+}
+
+.lee1:hover {
+    transform: rotate(5deg); 
+}
+
+
+.lee2{
+	position: absolute;
+    right: 12%;
+    top: 40%;
+    transition: transform 0.3s ease;
+}
+
+.lee2:hover {
+    transform: rotate(5deg); 
+}
+
+
+section3{
+	color:  #ffefca;
+    font-family: "궁서", Gungsuh, "AppleMyungjo", serif;
+    font-size: 30px;
+    position: absolute;
+    right: 10%;
+    bottom: 5%;
+
+
+}
+
+section3:hover {
+    color: #d8b060; 
+}
+
+body {
+    /* 위에서 아래로 흐르는 그라데이션 (상단 어둡게 -> 중간 밝게 -> 하단 어둡게) */
+    background: linear-gradient(to bottom, #4c2f1a 50%, #000000 100%);
+    margin: 0;
+    min-height: 100vh;
+}
