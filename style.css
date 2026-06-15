@@ -1,0 +1,61 @@
+.box1{
+	background-color: #4c2f1a;
+	position: absolute;
+	width: 50%;
+	height: 100%;
+	left: 0%;
+	top: 0%;
+	z-index: -1;
+}
+
+.box2{
+	background-color: #9b6d40;
+	position: absolute;
+	width: 50%; 
+	height: 100%;
+	right: 0%;
+	top: 0%;
+	z-index: -1;
+}
+
+a {
+    color: inherit;         
+    text-decoration: none; 
+}
+
+.music{
+	color:  #fff7f0;
+    font-family: "궁서", Gungsuh, "AppleMyungjo", serif;
+    font-size: 150px;
+    position: absolute;
+    left: 15%;
+    bottom: 20%;
+
+}
+
+.music:hover {
+    color: #d8b060; 
+}
+
+.musical{
+	color: #fff7f0;
+    font-family: "궁서", Gungsuh, "AppleMyungjo", serif;
+    font-size: 150px;
+    position: absolute;
+    right: 10%;
+    bottom: 20%;
+
+
+}
+
+.musical:hover {
+    color: #d8b060; 
+}
+
+h1{
+	color: #efd9c2;
+    font-family: "휴먼옛체", "HYyetChae", serif;
+    position: absolute;
+    right: 20px;
+    bottom: 0;
+}
