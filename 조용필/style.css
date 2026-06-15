@@ -1,0 +1,122 @@
+body {
+    background: linear-gradient(to bottom, #4c2f1a 30%, #000000 100%);
+    margin: 0;
+    min-height: 465vh;
+}
+
+section{
+    color:  #ffefca;
+    font-family: "궁서", Gungsuh, "AppleMyungjo", serif;
+    font-size: 30px;
+    position: absolute;
+    left: 47%;
+    top: 3%;
+
+}
+
+.text1{
+    font-family: "HY견명조", "HYGyeonMyeongjo", serif;
+    color: #ffefca;
+    font-size: 20px;
+    position: absolute;
+    left: 40%;
+    top: 83%;
+}
+
+.text2{
+    font-family: "HY견명조", "HYGyeonMyeongjo", serif;
+    color: #ffefca;
+    font-size: 20px;
+    position: absolute;
+    left: 31%;
+    top: 168%;
+}
+
+.text3{
+     font-family: "HY견명조", "HYGyeonMyeongjo", serif;
+    color: #ffefca;
+    font-size: 20px;
+    position: absolute;
+    left: 40%;
+    top: 255%;   
+}
+
+.text4{
+     font-family: "HY견명조", "HYGyeonMyeongjo", serif;
+    color: #ffefca;
+    font-size: 20px;
+    position: absolute;
+    left: 35%;
+    top: 338%;   
+}
+
+.text5{
+    /*font-family: "HY얕은샘물M", "HY얕은샘물", "HYShortSamulM", sans-serif;*/
+    font-family: "휴먼옛체", "HMKBS", "HumanYeti", serif;
+    color: #ffefca;
+    text-align: center;
+    font-size: 20px;
+    line-height: 2;
+    width: 45%;
+    height: 60%;
+    position: absolute;
+    left: 27%;
+    top: 400%;
+}
+
+
+.jo1{
+    position: absolute;
+    left: 31%;
+    top: 18%;
+    z-index: 1;
+}
+
+.jo2{
+    position: absolute;
+    left: 46%;
+    top: 25%;
+    z-index: 1
+}
+
+.jo3{
+    position: absolute;
+    left: 30%;
+    top: 95%;
+    z-index: 1
+}
+
+.jo4{
+    position: absolute;
+    left: 30%;
+    top: 180%;
+    z-index: 0
+
+}
+
+.jo5{
+    position: absolute;
+    left: 30%;
+    top: 265%;
+    z-index: 0
+}
+
+
+.line{
+    position: absolute;
+    left: 21%;
+    top: 15%;
+    z-index: 1;
+}
+
+.three{
+    position: absolute;
+    left: 48%;
+    top: 350%;
+}
+
+.mu{
+    position: absolute;
+    left: 47%;
+    top: 375%;
+}
